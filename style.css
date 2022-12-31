@@ -11,7 +11,7 @@ header{
     width: 100%;
     height: 100px;
     padding:15px ;
-    background-color:gray;
+    background-color:yellowgreen;
 
 }
 h1{
@@ -52,7 +52,7 @@ h2{
 .div1{
     width: 100%;
     height: 100px;
-    background-color: gray;
+    background-color: yellowgreen;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -100,7 +100,7 @@ h4{
 footer{
     width:100%;
     height: 235px;
-    background-color: gray;
+    background-color: yellowgreen;
     display: flex;
     flex-direction: column;
     justify-content: center;
