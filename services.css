@@ -65,14 +65,17 @@ button:hover{
     cursor: pointer;
     
 }
-.center{
+.center{width: 100%;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .services{
     
-    width: 60%;
+    width: 1200px;
     height:600px;
+    
+
     
     
     
@@ -85,9 +88,10 @@ button:hover{
     margin: 5px 20px;
     padding: 30px ;
     
+    
 }
 .form{background-color: yellowgreen;
-    width: 25%;
+    width: 500px;
     height: 250px;
     margin: 20px;
     padding: 20px;
