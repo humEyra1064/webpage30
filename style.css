@@ -4,7 +4,7 @@
     box-sizing: border-box;
     
 }
-.header{
+header{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -28,4 +28,25 @@ a:hover{
     color: fuchsia;
     transform: scale(1.2);
     font-size:30px ;
+}
+.section{
+    width: 100%;
+    height: 300px;
+    background-image: url(showcase.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+h2{
+    font-size: 46px;
+    margin: 20px;
+    color: white;
+}
+.div1{
+    width: 100%;
+    height: 100px;
 }
