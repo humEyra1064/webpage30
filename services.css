@@ -61,7 +61,11 @@ button{
     color: white;
     border: none;
 }
-.center{background-color: yellow;
+button:hover{
+    cursor: pointer;
+    
+}
+.center{
     display: flex;
     justify-content: space-between;
 }
@@ -96,4 +100,21 @@ button{
 .form button{
     padding: 10px 20px;
     margin: 5px;
+}
+.form button:hover{
+    cursor: pointer;
+
+}
+
+footer{
+    width:100%;
+    height: 235px;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+footer p{
+    color: black;
 }
