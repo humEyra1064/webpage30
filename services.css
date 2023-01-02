@@ -69,11 +69,11 @@ button:hover{
     height: 80%;
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;
+    
 }
 .services{
     
-    width: 1200px;
+    width: 70%;
     height:600px;
     
 
@@ -92,9 +92,9 @@ button:hover{
     
 }
 .form{background-color: yellowgreen;
-    width: 500px;
+    width: 40%;
     height: 30%;
-    margin: 20px;
+    margin: 40px;
     padding: 20px;
     color: white;
 
